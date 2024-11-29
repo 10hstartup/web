@@ -54,7 +54,7 @@
     "grumpy": "^0.2.4",
     "helmet": "^3.21.3",
     "html-minifier": "^4.0.0",
-    "i18next": "^19.4.4",
+    "i18next": "^20.2.1",
     "i18next-http-middleware": "^1.0.0",
     "ip": "^1.1.5",
     "keyv": "^4.0.0",
